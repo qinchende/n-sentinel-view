@@ -1,0 +1,32 @@
+{
+  "_from": "n-sentinel-view",
+  "_id": "n-sentinel-view@0.1.0",
+  "_inBundle": false,
+  "_phantomChildren": {},
+  "_requested": {
+  },
+  "_requiredBy": [],
+  "author": {
+    "name": "闪电侠",
+    "email": "qinchende@qq.com"
+  },
+  "contributors": [],
+  "dependencies": {
+  },
+  "deprecated": false,
+  "description": "Manager pages for n-sentinel tool.",
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "homepage": "https://www.chende.ren/",
+  "keywords": [
+  ],
+  "license": "MIT",
+  "main": "app.js",
+  "name": "n-sentinel-view",
+  "scripts": {
+  },
+  "version": "0.1.0"
+}
