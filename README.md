@@ -1,6 +1,14 @@
 # n-sentinel-view
 这是服务器监控工具 **[n-sentinel]** 的可视化管理后台；目前用`ExtJS`实现。
 
+Client：[n-sentinel-client](https://github.com/qinchende/n-sentinel-client)
+
+Server：[n-sentinel-server](https://github.com/qinchende/n-sentinel-server)
+
+ManagerPages：[n-sentinel-view](https://github.com/qinchende/n-sentinel-view)
+
+
+
 **这一块需要更多的整理，先放几张预览效果图**
 
 ### 整体管理界面
